@@ -6,3 +6,4 @@ langchain-text-splitters
 pandas
 langchain-groq
 streamlit
+altair==4.2.2
