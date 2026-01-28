@@ -5,5 +5,5 @@ langchain-community
 langchain-text-splitters
 pandas
 langchain-groq
-streamlit
+streamlit==1.30.0
 altair==4.2.2
